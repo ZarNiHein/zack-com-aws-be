@@ -1,0 +1,6 @@
+{    
+    "body": "{\"sizeNo\":\"7\",\"imgUrl\":\"https://static.nike.com/a/images/t_default/63402e89-a42e-43cb-9cca-0aa0b5f7d848/revolution-5-running-shoe-RNxmvG.jpg\",\"countInstock\":8,\"price\":500,\"review\":5,\"description\":\"Comfort for all days\"}",
+    "pathParameters": {
+    "p_id": "1234"
+  }
+}
